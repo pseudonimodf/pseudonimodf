@@ -1,4 +1,4 @@
-# Ciao a tutti!
+# Ciao a tutti
 
 - 👋 Hi, I’m @pseudonimodf
 - 👀 I’m interested in ...
